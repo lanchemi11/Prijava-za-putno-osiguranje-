@@ -1,0 +1,13 @@
+#dodatniOsiguranici {
+  display: none;
+}
+.section-form form {
+  width: 70%;
+}
+.table th,
+.table td {
+  text-align: center;
+}
+.table a {
+  text-decoration: none;
+}
